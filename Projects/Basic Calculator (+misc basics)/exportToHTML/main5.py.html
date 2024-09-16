@@ -1,0 +1,48 @@
+<html>
+<head>
+<title>main5.py</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.s0 { color: #a9b7c6;}
+.s1 { color: #6a8759;}
+.s2 { color: #cc7832;}
+.s3 { color: #6897bb;}
+</style>
+</head>
+<body bgcolor="#2b2b2b">
+<table CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#606060" >
+<tr><td><center>
+<font face="Arial, Helvetica" color="#000000">
+main5.py</font>
+</center></td></tr></table>
+<pre><span class="s0">answer = input(</span><span class="s1">&quot;Who was the first ever WWE Universal champion?: &quot;</span><span class="s0">)</span>
+<span class="s2">if </span><span class="s0">answer == </span><span class="s1">&quot;Finn Balor&quot;</span><span class="s0">:</span>
+    <span class="s0">print(</span><span class="s1">&quot;You are right!&quot;</span><span class="s0">)</span>
+<span class="s2">else</span><span class="s0">:</span>
+    <span class="s0">print(</span><span class="s1">&quot;You dead wrong!&quot;</span><span class="s0">)</span>
+
+<span class="s0">being_a_male = </span><span class="s2">False</span>
+<span class="s0">being_tall = </span><span class="s2">True</span>
+<span class="s2">if </span><span class="s0">being_a_male </span><span class="s2">and </span><span class="s0">being_tall:</span>
+    <span class="s0">print(</span><span class="s1">&quot;You are a tall freakin' male.&quot;</span><span class="s0">)</span>
+<span class="s2">elif </span><span class="s0">being_a_male </span><span class="s2">and not </span><span class="s0">being_tall:</span>
+    <span class="s0">print(</span><span class="s1">&quot;You're a short male.&quot;</span><span class="s0">)</span>
+<span class="s2">elif not </span><span class="s0">being_a_male </span><span class="s2">and </span><span class="s0">being_tall:</span>
+    <span class="s0">print(</span><span class="s1">&quot;You're tall, but you're not masculine enough.&quot;</span><span class="s0">)</span>
+<span class="s2">else</span><span class="s0">:</span>
+    <span class="s0">print(</span><span class="s1">&quot;You're not tall and masculine enough!&quot;</span><span class="s0">)</span>
+
+<span class="s2">def </span><span class="s0">max(num1</span><span class="s2">, </span><span class="s0">num2</span><span class="s2">, </span><span class="s0">num3):</span>
+    <span class="s2">if </span><span class="s0">num1 &gt;= num2 </span><span class="s2">and </span><span class="s0">num1 &gt;= num3:</span>
+        <span class="s2">return </span><span class="s0">num1</span>
+    <span class="s2">elif </span><span class="s0">num2 &gt;= num1 </span><span class="s2">and </span><span class="s0">num2 &gt;= num3:</span>
+        <span class="s2">return </span><span class="s0">num2</span>
+    <span class="s2">else</span><span class="s0">:</span>
+        <span class="s2">return </span><span class="s0">num3</span>
+<span class="s0">print(max(</span><span class="s3">2</span><span class="s2">, </span><span class="s3">3</span><span class="s2">, </span><span class="s3">1</span><span class="s0">))</span>
+
+
+
+</pre>
+</body>
+</html>

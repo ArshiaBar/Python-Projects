@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c69d946-1f68-440d-9333-878f6ff6c9ff" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CoffeeMachine/.idea/CoffeeMachine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ISS/.idea/ISS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LAB8/.idea/LAB8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab7/.idea/Lab7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LabWeek2/.idea/LabWeek2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LabWeek3/.idea/LabWeek3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LabWeek4/.idea/LabWeek4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LabWeek6/.idea/LabWeek6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LabWeek7/.idea/LabWeek7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ai/.idea/ai.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment1/.idea/assignment1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment1/asg1/.idea/asg1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../birthdays/.idea/birthdays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comprehension/.idea/comprehension.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dattim/.idea/dattim.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../django/.idea/django.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ecommerce/.idea/ecommerce.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../email/.idea/email.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise/.idea/exercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../file/.idea/file.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../final/.idea/final.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskk/.idea/flaskk.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forecast/.idea/forecast.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github/.idea/github.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gui/.idea/gui.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../habit/.idea/habit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/.idea/lab5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lablast/.idea/lablast.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midterm/.idea/midterm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../midterm2/.idea/midterm2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../move/.idea/move.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mtokm/.idea/mtokm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop/.idea/oop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../painting/.idea/painting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pong/.idea/pong.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/pythonProject1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/.idea/pythonProject2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject4/.idea/pythonProject4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quiz/.idea/quiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../selenium/.idea/selenium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../showing/.idea/showing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snake/.idea/snake.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stats/.idea/stats.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/dddd/.idea/asg1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2/.idea/ecommerce.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testoole/.idea/testoole.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../uno/.idea/uno.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ZrVSshPKnDaAESvEv9aIQYVUE8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/shbar/PycharmProjects/turtlecross"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="turtlecross" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c69d946-1f68-440d-9333-878f6ff6c9ff" name="Changes" comment="" />
+      <created>1703180187483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703180187483</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

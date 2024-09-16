@@ -1,0 +1,44 @@
+<html>
+<head>
+<title>main3.py</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.s0 { color: #a9b7c6;}
+.s1 { color: #6a8759;}
+.s2 { color: #cc7832;}
+.s3 { color: #6897bb;}
+</style>
+</head>
+<body bgcolor="#2b2b2b">
+<table CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#606060" >
+<tr><td><center>
+<font face="Arial, Helvetica" color="#000000">
+main3.py</font>
+</center></td></tr></table>
+<pre><span class="s0">Titles = [</span><span class="s1">&quot;AEW World Championship&quot;</span><span class="s2">, </span><span class="s1">&quot;WWE Universal Championship&quot;</span><span class="s2">, </span><span class="s1">&quot;WWE World Championship&quot;</span><span class="s0">]</span>
+<span class="s0">MidCard_Titles = [</span><span class="s1">&quot;US Title&quot;</span><span class="s2">, </span><span class="s1">&quot;IC Title&quot;</span><span class="s2">, </span><span class="s1">&quot;TNT Title&quot;</span><span class="s2">, </span><span class="s1">&quot;NA Title&quot;</span><span class="s0">]</span>
+<span class="s0">Titles.extend(MidCard_Titles)</span>
+<span class="s0">Titles.append(</span><span class="s1">&quot;AA Title&quot;</span><span class="s0">)</span>
+<span class="s0">Titles.insert(</span><span class="s3">2</span><span class="s2">, </span><span class="s1">&quot;Impact World Title&quot;</span><span class="s0">)</span>
+<span class="s0">Titles.remove(</span><span class="s1">&quot;WWE Universal Championship&quot;</span><span class="s0">)</span>
+<span class="s0">Titles.pop()</span>
+<span class="s0">print(Titles)</span>
+<span class="s0">print(Titles.index(</span><span class="s1">&quot;TNT Title&quot;</span><span class="s0">))</span>
+<span class="s0">print(Titles.count(</span><span class="s1">&quot;IC Title&quot;</span><span class="s0">))</span>
+<span class="s0">Titles.sort()</span>
+<span class="s0">print(Titles)</span>
+<span class="s0">Titles.reverse()</span>
+<span class="s0">print(Titles)</span>
+
+<span class="s0">Titles2 = Titles.copy()</span>
+<span class="s0">print(Titles2)</span>
+<span class="s0">Titles.clear()</span>
+<span class="s0">print(Titles)</span>
+
+
+
+
+
+</pre>
+</body>
+</html>
