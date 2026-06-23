@@ -2,9 +2,9 @@ import requests
 import os
 from twilio.rest import Client
 
-lat=43.759838
-lon=-79.411209
-api_key='2d24d15435fa53eb218f53d05b41fb53'
+lat=LAT
+lon=LON
+api_key='KEY'
 #api_key=os.environ.get("ForecastAPIKey")
 api=f'https://api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&cnt=4&appid={api_key}'
 
@@ -23,8 +23,8 @@ auth_token = "AUTH_Token"
 client = Client(account_sid, auth_token)
 message = client.messages.create(
     body=f"It's {data[0]} at 9AM, {data[1]} at 12PM, {data[2]} at 3PM, {data[3]} at 6PM. Your discretion is advised.",
-    from_="+15706956847",
-    to="+16477036685",
+    from_="From",
+    to="To",
 )
 
 #whatsapp: https://console.twilio.com/us1/develop/sms/try-it-out/whatsapp-learn  #u need to connect ur whatsapp
