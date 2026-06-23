@@ -17,8 +17,8 @@ data=[]
 for _ in weather_data['list']:
     data.append(_['weather'][0]['description'])
 
-account_sid = "AC103490a356ac883da37b8e5543265ddb"
-auth_token = "13f492c5fc228b706d14a5cf6502e2c3"
+account_sid = "Account_SID"
+auth_token = "AUTH_Token"
 #auth_token= os.environ.get("ForecastAuthToken")
 client = Client(account_sid, auth_token)
 message = client.messages.create(
